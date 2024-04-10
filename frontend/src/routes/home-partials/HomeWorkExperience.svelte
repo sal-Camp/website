@@ -11,6 +11,6 @@
             <li class="h4">&#x2022;</li>
             <li class="h4">Database Management</li>
         </ul>
-        <p class="text-center"><a href="https://www.s-cubed.com/" target="_blank"><strong>S-Cubed</strong></a> was an amazing experience. Working on the control software for advanced custom-built-to-order lithography equipment, I was able to push code, walk into the next room and see my code executing on the machines immediately. I was exposed to so many technologies and concepts. Every day was an adventure where I got to learn something new.</p>
+        <p class="text-center"><a href="https://www.s-cubed.com/" target="_blank"><strong>S-Cubed</strong></a> was an amazing experience. Working on the control software for advanced custom-built lithography equipment, I was able to push code, walk into the next room and see my code executing on the machines immediately. I was exposed to so many technologies and concepts. Every day was an adventure where I got to learn something new.</p>
     </div>
 </div>
